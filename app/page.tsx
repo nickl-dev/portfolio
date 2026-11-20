@@ -49,7 +49,7 @@ export default function Home() {
                     href={p.href}
                     target="_blank"
                     rel="noreferrer"
-                    className="group grid gap-1 py-6 sm:grid-cols-[4rem_1fr_auto] sm:gap-6"
+                    className="group grid gap-1 py-6 sm:grid-cols-[auto_auto] justify-between sm:gap-6"
                   >
                     <span>
                       <span className="block text-xl font-medium transition-colors group-hover:text-accent">
