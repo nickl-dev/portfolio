@@ -51,7 +51,6 @@ export default function Home() {
                     rel="noreferrer"
                     className="group grid gap-1 py-6 sm:grid-cols-[4rem_1fr_auto] sm:gap-6"
                   >
-                    <span className="text-muted">{p.year}</span>
                     <span>
                       <span className="block text-xl font-medium transition-colors group-hover:text-accent">
                         {p.title}
